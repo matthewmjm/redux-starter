@@ -41,9 +41,9 @@ class App extends Component{
 
 // currying
 
-// const myFunction = (params1, param2) => (component) => connectedComponent
+// const myFunction = (mapStateToProps, mapDispatchToProps) => (component) => connectedComponent
 
-// function myFunction(params1, params2){
+// function myFunction(mapStateToProps, mapDispatchToProps){
 //   return function(component){
 //     return connectedComponent
 //   }
